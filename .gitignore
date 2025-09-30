@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+#pour ne pas prendre en compte le fichier
+/data
+
 # C extensions
 *.so
 
